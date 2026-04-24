@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-d83iqm.rexlive.live/sitemap.xml
